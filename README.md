@@ -1,12 +1,27 @@
-Pascal Baumgardt | Junior Web Developer
+# 👨‍💻 Pascal Baumgardt | Junior Web Developer
 
-Willkommen auf meinem GitHub-Profil! Ich bin Pascal, 19 Jahre alt, und auf dem Weg, meine Fähigkeiten als Junior Web-Developer zu erweitern. Auf diesem Profil findest du eine Sammlung meiner Projekte, die meine Reise in der Web-Entwicklung widerspiegeln.
+Willkommen auf meinem GitHub-Profil! 🎉  
+Ich bin Pascal, 19 Jahre alt, und entwickle mich als Junior Web-Developer. Hier findest du meine Projekte, die meine Reise in der Web-Entwicklung widerspiegeln.
 
-Ich arbeite mit Technologien wie HTML, CSS, JavaScript und React und bin immer auf der Suche nach neuen Herausforderungen und Möglichkeiten, mich weiterzuentwickeln. Mein Portfolio ist unter devpascalb.github.io/portfolio zu finden, wo du mehr über meine bisherigen Arbeiten erfahren kannst.
+## 🚀 Meine Projekte
 
-Technologien, mit denen ich arbeite:
+Ich arbeite mit **HTML**, **CSS** und **JavaScript** und bin ständig auf der Suche nach neuen Herausforderungen.
 
-HTML, CSS, JavaScript
-Git, GitHub
+Besuche mein Portfolio:  
+🌐 [devpascalb.github.io/portfolio](https://devpascalb.github.io/portfolio/)
 
-Ich freue mich auf Feedback und die Möglichkeit, an spannenden Projekten zusammenzuarbeiten!
+## 🔧 Technologien, mit denen ich arbeite:
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Git & GitHub**
+
+## 📬 Kontakt
+
+- LinkedIn: [Pascal Baumgardt](https://www.linkedin.com/in/pascal-baumgardt-861b11294/)
+- E-Mail: [deine-email@example.com](mailto:baumgardtpascal4@gmail.com)
+
+---
+
+Danke, dass du dir die Zeit genommen hast, mein Profil zu besuchen! 😊  
+Ich freue mich über Feedback und mögliche Kooperationen! 
