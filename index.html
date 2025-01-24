@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pascal Baumgardt - Portfolio</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <nav>
+        <div class="logo">
+          <h1>Portfolio</h1>
+        </div>
+        <ul class="nav-links">
+          <li><a href="#about" onclick="closeMenu()">Über mich</a></li>
+          <li><a href="#skills" onclick="closeMenu()">Skills</a></li>
+          <li><a href="#projects" onclick="closeMenu()">Projekte</a></li>
+          <li><a href="#contact" onclick="closeMenu()">Kontakt</a></li>
+        </ul>
+        <div class="hamburger" onclick="toggleMenu()">
+          <div class="bar"></div>
+          <div class="bar"></div>
+          <div class="bar"></div>
+        </div>
+      </nav>
+
+  <header>
+    <h1>Willkommen auf meinem Portfolio</h1>
+    <p>Ich bin ein angehender Web-Developer und freue mich, meine Projekte zu teilen!</p>
+  </header>
+
+  <section id="about" class="scroll-section">
+    <h2>Über mich</h2>
+    <div class="about-content">
+        <p>
+        Hallo, mein Name ist Pascal Baumgardt, ich bin 19 Jahre alt und lerne aktuell HTML, CSS und JavaScript.
+        </p>
+        <p>
+        Ich habe eine Leidenschaft für Web-Entwicklung und möchte als Junior Web-Developer spannende Projekte realisieren.
+        Obwohl ich am Anfang meiner Reise stehe, habe ich bereits erste eigene Projekte umgesetzt. Mein Ziel ist es, meine Kenntnisse in React und Node.js weiter auszubauen und mich als Web-Developer weiterzuentwickeln.
+        </p>          
+      <img src="img/Logo.jpg" alt="Pascal Baumgardt">
+    </div>
+  </section>
+
+  <section id="skills" class="scroll-section">
+    <h2>Meine Skills</h2>
+    <div class="skills-container">
+      <div class="skill">
+        <h3>HTML</h3>
+        <div class="progress-bar">
+          <div class="progress" style="width: 20%"></div>
+        </div>
+      </div>
+      <div class="skill">
+        <h3>CSS</h3>
+        <div class="progress-bar">
+          <div class="progress" style="width: 20%"></div>
+        </div>
+      </div>
+      <div class="skill">
+        <h3>JavaScript</h3>
+        <div class="progress-bar">
+          <div class="progress" style="width: 20%"></div>
+        </div>
+      </div>
+    </div>
+  </section>  
+
+  <section id="projects" class="scroll-section">
+    <h2>Projekte</h2>
+    <div class="project-grid">
+      <div class="project-card">
+        <h3>To-Do App</h3>
+        <p>Eine einfache To-Do App, die es Nutzern ermöglicht, Aufgaben hinzuzufügen, zu löschen und als erledigt zu markieren.
+        </p>
+        <a href="https://github.com/DevPascalB" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+        <a href="https://devpascalb.github.io/to-do/" target="_blank"><i class="fa-solid fa-browser"></i> Live Demo</a>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact">
+    <footer>
+        <p><a href="mailto:baumgardtpascal4@gmail.com">Kontaktiere mich</a></p>
+        <div class="social-links">
+            <a href="https://github.com/DevPascalB" target="_blank">
+                <i class="fab fa-github"></i> GitHub
+            </a>
+            <a href="https://www.linkedin.com/in/pascal-baumgardt-861b11294/" target="_blank">
+                <i class="fab fa-linkedin"></i> LinkedIn
+            </a>
+        </div>
+        
+        <p>&copy; 2025 Pascal Baumgardt. Alle Rechte vorbehalten.</p>
+    </footer>
+  </section>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
