@@ -10,11 +10,11 @@ Ich bin **Pascal Baumgardt**, 19 Jahre alt, und lerne kontinuierlich, meine Fäh
 In meinem Portfolio findest du verschiedene Projekte, die meine Fähigkeiten und Lernfortschritte in der Webentwicklung zeigen:
 
 1. **Portfolio-Webseite**  
-   Eine persönliche Webseite, auf der ich meine Fähigkeiten, Projekte und Erfahrungen präsentiere.  
+   Eine persönliche Webseite, auf der ich meine Fähigkeiten, Projekte und Erfahrungen präsentiere./n 
    [Besuche mein Portfolio](https://devpascalb.github.io/portfolio/)
 
 2. **To-Do App**  
-   Eine einfache, aber funktionale To-Do-App, die es ermöglicht, Aufgaben hinzuzufügen, zu bearbeiten und zu löschen. Die App speichert Daten in einem lokalen Speicher, um die Aufgaben    auch nach dem Schließen der Seite zu erhalten.
+   Eine einfache, aber funktionale To-Do-App, die es ermöglicht, Aufgaben hinzuzufügen, zu bearbeiten und zu löschen. Die App speichert Daten in einem lokalen Speicher, um die Aufgaben    auch nach dem Schließen der Seite zu erhalten./n
    [Besuche meine To-Do App](https://devpascalb.github.io/to-do/)
 
 ## 🔧 **Technologien, die ich benutze**
