@@ -24,6 +24,8 @@ Ich arbeite hauptsächlich mit den folgenden Technologien:
 - **HTML**
 - **CSS**
 - **JavaScript**
+- **Java**
+- **MySQL**
 - **Git, GitHub**
 
 ---
